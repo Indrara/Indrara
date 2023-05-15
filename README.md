@@ -26,7 +26,7 @@ Willkommen auf meiner GitHub-Seite! Ich bin ein leidenschaftlicher Developer und
 
 ### 📊 Stats
 
-![Indraras GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrara&show_icons=true&theme=gruvbox)
+![Indraras GitHub stats](https://github-readme-stats.vercel.app/api?username=Indrara&show_icons=true&theme=github_dark_dimmed)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
