@@ -1,5 +1,5 @@
 ### Indrara 👋
 
-**`Digital Adventurerer (Developer/Game-Developer/Creator)´**
+**`Digital Adventurerer (Developer/Game-Developer/Creator)`**
 
 
