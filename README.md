@@ -31,12 +31,16 @@ Willkommen auf meiner GitHub-Seite! Ich bin ein leidenschaftlicher Developer und
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-# 🖥️ I'm currently learning
+# I'm currently learning
 
--Docker
+- 🖥️ Docker
 
--JavaScript Frameworks
+-🌐 JavaScript Frameworks
 
--API
+💡 Exploring Machine Learning
+
+📊 Data Visualization Techniques
+
+🔐 Cybersecurity Fundamentals
 
 
