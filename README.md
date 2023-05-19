@@ -33,9 +33,9 @@ Willkommen auf meiner GitHub-Seite! Ich bin ein leidenschaftlicher Developer und
 
 # I'm currently learning
 
-- 🖥️ Docker
+🖥️ Docker
 
--🌐 JavaScript Frameworks
+🌐 JavaScript Frameworks
 
 💡 Exploring Machine Learning
 
