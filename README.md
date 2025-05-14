@@ -32,14 +32,10 @@ Willkommen auf meiner GitHub-Seite! Ich bin ein leidenschaftlicher Developer und
 
 # I'm currently learning
 
-🖥️ Docker
+🖥️ I'm programming an emulator in Java
 
-🌐 JavaScript Frameworks
+🌐 developing a JobTracking app 
 
-💡 Exploring Machine Learning
-
-📊 Data Visualization Techniques
-
-🔐 Cybersecurity Fundamentals
+💡 currently studying Communication and Computer Networks as well as Information Security
 
 
